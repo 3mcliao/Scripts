@@ -1,0 +1,9 @@
+#!name = Unlock
+#!desc = Unlock合集
+
+[Script]
+# 名称:壁纸 作者:chxm1023
+壁纸 = type=http-response, pattern=^https?:\/\/leancloud\.emotionwp\.com\/.+\/(classes|batch\/save), script-path=https://raw.githubusercontent.com/chxm1023/Rewrite/main/bizhi.js, requires-body=true, max-size=-1, timeout=60
+
+[MITM]
+hostname = %APPEND% leancloud.emotionwp.com

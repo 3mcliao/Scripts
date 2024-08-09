@@ -1,0 +1,1415 @@
+# 规则名称:18comic
+DOMAIN-SUFFIX,18comic-god.cc
+DOMAIN-SUFFIX,18comic-god.club
+DOMAIN-SUFFIX,18comic-god.xyz
+DOMAIN-SUFFIX,18comic.cc
+DOMAIN-SUFFIX,18comic.company
+DOMAIN-SUFFIX,18comic.org
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-SUFFIX,jmcomic.ltd
+DOMAIN-SUFFIX,jmcomic.me
+DOMAIN-SUFFIX,jmcomic.mobi
+DOMAIN-SUFFIX,jmcomic.moe
+DOMAIN-SUFFIX,jmcomic1.city
+DOMAIN-SUFFIX,jmcomic1.me
+DOMAIN-SUFFIX,jmcomic1.mobi
+DOMAIN-SUFFIX,jmcomic2.moe
+
+# 规则名称:1Password
+DOMAIN-SUFFIX,1password.ca
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,1password.eu
+DOMAIN-SUFFIX,1passwordservices.com
+
+# 规则名称:ABC
+DOMAIN-SUFFIX,abc-studios.com
+DOMAIN-SUFFIX,abc.com
+DOMAIN-SUFFIX,edgedatg.com
+DOMAIN-SUFFIX,go.com
+
+# 规则名称:Analysis
+DOMAIN-SUFFIX,aicoin.com
+DOMAIN-SUFFIX,aimoon.com
+DOMAIN-SUFFIX,apy999.com
+DOMAIN-SUFFIX,bitcoin.it
+DOMAIN-SUFFIX,bitcoinity.org
+DOMAIN-SUFFIX,bitcoinmagazine.com
+DOMAIN-SUFFIX,blockchain.com
+DOMAIN-SUFFIX,blockchair.com
+DOMAIN-SUFFIX,bytetree.com
+DOMAIN-SUFFIX,chainalysis.com
+DOMAIN-SUFFIX,chainbroker.io
+DOMAIN-SUFFIX,coin.dance
+DOMAIN-SUFFIX,coincheckup.com
+DOMAIN-SUFFIX,coincodex.com
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,coinmetrics.io
+DOMAIN-SUFFIX,coinowo.com
+DOMAIN-SUFFIX,cointrendz.com
+DOMAIN-SUFFIX,crunchbase.com
+DOMAIN-SUFFIX,cryptocompare.com
+DOMAIN-SUFFIX,cryptoquant.com
+DOMAIN-SUFFIX,cryptorank.io
+DOMAIN-SUFFIX,cryptorank.io
+DOMAIN-SUFFIX,dapp.review
+DOMAIN-SUFFIX,dappradar.com
+DOMAIN-SUFFIX,dcabtc.com
+DOMAIN-SUFFIX,debank.com
+DOMAIN-SUFFIX,defieye.io
+DOMAIN-SUFFIX,defieye.io
+DOMAIN-SUFFIX,defillama.com
+DOMAIN-SUFFIX,defipulse.com
+DOMAIN-SUFFIX,defirate.com
+DOMAIN-SUFFIX,dextools.io
+DOMAIN-SUFFIX,dovemetrics.com
+DOMAIN-SUFFIX,dropsearn.com
+DOMAIN-SUFFIX,duneanalytics.com
+DOMAIN-SUFFIX,earni.fi
+DOMAIN-SUFFIX,glassnode.com
+DOMAIN-SUFFIX,icodrops.com
+DOMAIN-SUFFIX,intotheblock.com
+DOMAIN-SUFFIX,loanscan.io
+DOMAIN-SUFFIX,nyctale.io
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,stateofthedapps.com
+DOMAIN-SUFFIX,thegraph.com
+DOMAIN-SUFFIX,thetie.io
+DOMAIN-SUFFIX,tokenterminal.com
+DOMAIN-SUFFIX,tokenview.com
+DOMAIN-SUFFIX,tradeblock.com
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,tronscan.org
+DOMAIN-SUFFIX,vfat.tools
+DOMAIN-SUFFIX,viewbase.com
+
+# 规则名称:Archive
+DOMAIN-SUFFIX,archive.fo
+DOMAIN-SUFFIX,archive.is
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,archive.ph
+DOMAIN-SUFFIX,archive.today
+
+# 规则名称:Binance
+DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,binance.charity
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.co
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.im
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.net
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,binanceapi.com
+DOMAIN-SUFFIX,binancezh.be
+DOMAIN-SUFFIX,binancezh.biz
+DOMAIN-SUFFIX,binancezh.cc
+DOMAIN-SUFFIX,binancezh.co
+DOMAIN-SUFFIX,binancezh.com
+DOMAIN-SUFFIX,binancezh.info
+DOMAIN-SUFFIX,binancezh.ink
+DOMAIN-SUFFIX,binancezh.kim
+DOMAIN-SUFFIX,binancezh.link
+DOMAIN-SUFFIX,binancezh.live
+DOMAIN-SUFFIX,binancezh.mobi
+DOMAIN-SUFFIX,binancezh.net
+DOMAIN-SUFFIX,binancezh.pro
+DOMAIN-SUFFIX,binancezh.sh
+DOMAIN-SUFFIX,binancezh.top
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,bnappzh.com
+DOMAIN-SUFFIX,bnappzh.mobi
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bsc.getblock.io
+DOMAIN-SUFFIX,bscscan.com
+DOMAIN-KEYWORD,binance
+
+# 规则名称:Blizzard
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,blizzard.com
+
+# 规则名称:CNN
+DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,cnn.io
+DOMAIN-SUFFIX,cnn.it
+DOMAIN-SUFFIX,cnnarabic.com
+DOMAIN-SUFFIX,cnnlabs.com
+DOMAIN-SUFFIX,cnnmoney.ch
+
+# 规则名称:Cloudflare
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflareaccess.com
+DOMAIN-SUFFIX,cloudflareresolve.com
+DOMAIN-SUFFIX,cloudflarestatus.com
+
+# 规则名称:Coinone
+DOMAIN-SUFFIX,coinone.co.kr
+DOMAIN-SUFFIX,coinonecore.com
+DOMAIN-SUFFIX,coinonecorp.com
+
+# 规则名称:DAPP
+DOMAIN-SUFFIX,1inch.io
+DOMAIN-SUFFIX,aave.com
+DOMAIN-SUFFIX,compound.finance
+DOMAIN-SUFFIX,makerdao.com
+DOMAIN-SUFFIX,mdex.co
+DOMAIN-SUFFIX,mdex.com
+DOMAIN-SUFFIX,mdex.me
+DOMAIN-SUFFIX,mdex.one
+DOMAIN-SUFFIX,pancakeswap.com
+DOMAIN-SUFFIX,pancakeswap.finance
+DOMAIN-SUFFIX,raydium.io
+DOMAIN-SUFFIX,sunswap.com
+DOMAIN-SUFFIX,sushi.com
+DOMAIN-SUFFIX,synthetix.io
+DOMAIN-SUFFIX,traderjoexyz.com
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,wbtc.network
+
+# 规则名称:Discord
+DOMAIN-SUFFIX,dis.gd
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordcdn.com
+DOMAIN-KEYWORD,discord
+
+# 规则名称:Dropbox
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+
+# 规则名称:Duolingo
+DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,duolingo.com
+DOMAIN-KEYWORD,duolingo
+
+# 规则名称:EOS
+DOMAIN-SUFFIX,eos.io
+DOMAIN-SUFFIX,developers.eos.io
+DOMAIN-SUFFIX,block.one
+DOMAIN-SUFFIX,eostracker.io
+DOMAIN-SUFFIX,eosflare.io
+DOMAIN-SUFFIX,eospark.com
+DOMAIN-SUFFIX,bloks.io
+
+# 规则名称:EPIC
+# DOMAIN-SUFFIX,epicgames.com
+# DOMAIN-SUFFIX,epicgames.dev
+# DOMAIN-SUFFIX,helpshift.com
+# DOMAIN-SUFFIX,paragon.com
+# DOMAIN-SUFFIX,unrealengine.com
+
+# 规则名称:Ethereum
+DOMAIN-SUFFIX,cryptofees.info
+DOMAIN-SUFFIX,devcon.org
+DOMAIN-SUFFIX,ethereum.cn
+DOMAIN-SUFFIX,ethereum.foundation
+DOMAIN-SUFFIX,ethereum.org
+DOMAIN-SUFFIX,ethereum.stackexchange.com
+DOMAIN-SUFFIX,ethereum-magicians.org
+DOMAIN-SUFFIX,ethernodes.org
+DOMAIN-SUFFIX,etherscan.com
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,ethfans.org
+DOMAIN-SUFFIX,ethgasstation.info
+DOMAIN-SUFFIX,flashbots.net
+DOMAIN-SUFFIX,nansen.ai
+DOMAIN-SUFFIX,parity.io
+DOMAIN-SUFFIX,vitalik.ca
+DOMAIN-SUFFIX,watchtheburn.com
+
+# 规则名称:Exchange
+DOMAIN-SUFFIX,aex.com
+DOMAIN-SUFFIX,arbitrum.io
+DOMAIN-SUFFIX,avax.network
+DOMAIN-SUFFIX,bibox.com
+DOMAIN-SUFFIX,bitbank.cc
+DOMAIN-SUFFIX,bitcoin.org
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bithumb.com
+DOMAIN-SUFFIX,bitmex.com
+DOMAIN-SUFFIX,bitquick.co
+DOMAIN-SUFFIX,bitstamp.net
+DOMAIN-SUFFIX,bittrex.com
+DOMAIN-SUFFIX,boba.network
+DOMAIN-SUFFIX,btcbox.co.jp
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,cex.io
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,coincheck.com
+DOMAIN-SUFFIX,coinone.co.kr
+DOMAIN-SUFFIX,dogecoin.com
+DOMAIN-SUFFIX,dydx.exchange
+DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,korbit.co.kr
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,liquid.com
+DOMAIN-SUFFIX,optimism.io
+DOMAIN-SUFFIX,paxful.com
+DOMAIN-SUFFIX,poloniex.com
+DOMAIN-SUFFIX,poly.network
+DOMAIN-SUFFIX,solana.com
+DOMAIN-SUFFIX,tether.to
+DOMAIN-SUFFIX,zkscan.io
+DOMAIN-SUFFIX,zksync.io
+
+# 规则名称:Facebook
+DOMAIN-SUFFIX,accountkit.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,f8.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook-hardware.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.watch
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbmessenger.com
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,oculus.com
+DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,tfbnw.net
+DOMAIN-SUFFIX,threads.net
+DOMAIN-KEYWORD,facebook
+
+# 规则名称:GitBook
+DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,gitbook.zendesk.com
+
+# 规则名称:GitHub
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-KEYWORD,github
+
+# 规则名称:GitLab
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,gitlab.net
+DOMAIN-SUFFIX,gitter-static.net
+DOMAIN-SUFFIX,gitter.im
+DOMAIN-KEYWORD,gitlab
+
+# 规则名称:Huobi
+DOMAIN-SUFFIX,bitderiv.com
+DOMAIN-SUFFIX,hbabit.com
+DOMAIN-SUFFIX,hbfile.net
+DOMAIN-SUFFIX,hbfile.net
+DOMAIN-SUFFIX,hecochain.com
+DOMAIN-SUFFIX,heco-scan.com
+DOMAIN-SUFFIX,hecoview.com
+DOMAIN-SUFFIX,huobi.br.com
+DOMAIN-SUFFIX,huobi.br.com
+DOMAIN-SUFFIX,huobi.co.ma
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,huobi.me
+DOMAIN-SUFFIX,huobi.pro
+DOMAIN-SUFFIX,huobi.sc
+DOMAIN-SUFFIX,huobi.ug
+DOMAIN-SUFFIX,huobi.ws
+DOMAIN-SUFFIX,huobiasia.vip
+DOMAIN-SUFFIX,huobigroup.com
+DOMAIN-SUFFIX,huobitoken.com
+DOMAIN-KEYWORD,huobi
+
+# 规则名称:IPFS
+DOMAIN-SUFFIX,discuss.ipfs.io
+DOMAIN-SUFFIX,docs.ipfs.io
+DOMAIN-SUFFIX,docs.lotu.sh
+DOMAIN-SUFFIX,filecoin.io
+DOMAIN-SUFFIX,ipfs.io
+
+# 规则名称:Line
+DOMAIN-SUFFIX,gcld-line.com
+DOMAIN-SUFFIX,lin.ee
+DOMAIN-SUFFIX,line.biz
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line.naver.jp
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-apps-beta.com
+DOMAIN-SUFFIX,line-apps-rc.com
+DOMAIN-SUFFIX,line-beta.me
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,linecorp.com
+DOMAIN-SUFFIX,linefriends.com
+DOMAIN-SUFFIX,linefriends.com.tw
+DOMAIN-SUFFIX,linegame.jp
+DOMAIN-SUFFIX,linemobile.com
+DOMAIN-SUFFIX,linemyshop.com
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,lineshoppingseller.com
+DOMAIN-SUFFIX,linetv.tw
+DOMAIN-SUFFIX,nhncorp.jp
+
+# 规则名称:Microsoft
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,linkedin.at
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,lnkd.in
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,windows.net
+
+# 规则名称:NFT
+DOMAIN-SUFFIX,cryptoart.io
+DOMAIN-SUFFIX,cryptoslam.io
+DOMAIN-SUFFIX,makersplace.com
+DOMAIN-SUFFIX,nftcalendar.io
+DOMAIN-SUFFIX,nftgo.io
+DOMAIN-SUFFIX,nftscan.com
+DOMAIN-SUFFIX,nonfungible.com
+DOMAIN-SUFFIX,opensea.io
+
+# 规则名称:OKX
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-KEYWORD,okx
+
+# 规则名称:OneDrive
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,oneclient.sfx.ms
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,photos.live.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,skydrive.wns.windows.com
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,skydrive
+
+# 规则名称:OpenAI
+DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-KEYWORD,openai
+
+# 规则名称:Oracle
+DOMAIN-SUFFIX,ateam-oracle.com
+DOMAIN-SUFFIX,bronto.com
+DOMAIN-SUFFIX,covid19-rx.org
+DOMAIN-SUFFIX,covid19rx.org
+DOMAIN-SUFFIX,oracle
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,oraclefoundation.org
+DOMAIN-SUFFIX,oracleimg.com
+DOMAIN-SUFFIX,oracleinfinity.io
+DOMAIN-SUFFIX,sun.com
+
+# 规则名称:POOL
+DOMAIN-SUFFIX,1ml.com
+DOMAIN-SUFFIX,bitcoinvisuals.com
+DOMAIN-SUFFIX,bitnodes.earn.com
+DOMAIN-SUFFIX,btc.com
+DOMAIN-SUFFIX,cbeci.org
+DOMAIN-SUFFIX,crypto51.app
+DOMAIN-SUFFIX,digiconomist.net
+DOMAIN-SUFFIX,ethermine.org
+DOMAIN-SUFFIX,ewapool.net
+DOMAIN-SUFFIX,f2pool.com
+DOMAIN-SUFFIX,masternodes.online
+DOMAIN-SUFFIX,poolin.com
+
+# 规则名称:PicACG
+DOMAIN-SUFFIX,bikaa.xyz
+DOMAIN-SUFFIX,bikac.xyz
+DOMAIN-SUFFIX,bikaios.xyz
+DOMAIN-SUFFIX,manhuabika.com
+DOMAIN-SUFFIX,picacgp.com
+DOMAIN-SUFFIX,picacgy.com
+DOMAIN-SUFFIX,picacn.xyz
+DOMAIN-SUFFIX,picacomic.com
+DOMAIN-SUFFIX,picacomic.xyz
+DOMAIN-SUFFIX,wikawika.xyz
+
+# 规则名称:Pixiv
+DOMAIN-SUFFIX,booth.pm
+DOMAIN-SUFFIX,fanbox.cc
+DOMAIN-SUFFIX,pixiv.cat
+DOMAIN-SUFFIX,pixiv.co.jp
+DOMAIN-SUFFIX,pixiv.me
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pixiv.org
+DOMAIN-SUFFIX,pximg.net
+
+# 规则名称:Potato
+IP-CIDR,13.251.24.157/24,no-resolve
+IP-CIDR,13.251.41.203/24,no-resolve
+IP-CIDR,17.252.156.147/24,no-resolve
+IP-CIDR,17.252.157.26/24,no-resolve
+
+# 规则名称:RiotGame
+DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX,wr.pvp.net
+
+# 规则名称:Rouman5
+DOMAIN-SUFFIX,rmcdn1.xyz
+DOMAIN-SUFFIX,rmcdn2.xyz
+DOMAIN-SUFFIX,rmcdn3.xyz
+DOMAIN-SUFFIX,rmcdn4.xyz
+DOMAIN-SUFFIX,rmcdn5.xyz
+DOMAIN-SUFFIX,rouman5.com
+
+# 规则名称:SCP-Wiki
+# DOMAIN-SUFFIX,scp-wiki.net
+# DOMAIN-SUFFIX,scpdb.org
+# DOMAIN-SUFFIX,scpwiki.com
+
+# 规则名称:Signal
+# DOMAIN-SUFFIX,signal.art
+# DOMAIN-SUFFIX,signal.org
+# DOMAIN-SUFFIX,signalusers.org
+# DOMAIN-SUFFIX,whispersystems.org
+
+# 规则名称:Shopify
+DOMAIN-SUFFIX,myshopify.com
+DOMAIN-SUFFIX,shop.app
+DOMAIN-SUFFIX,shopify.com
+DOMAIN-SUFFIX,shopify.dev
+DOMAIN-SUFFIX,shopifycdn.com
+DOMAIN-SUFFIX,shopifycloud.com
+DOMAIN-SUFFIX,shopifystatus.com
+DOMAIN-SUFFIX,shopifysvc.com
+
+# 规则名称:Sony
+# DOMAIN-SUFFIX,playstation.com
+# DOMAIN-SUFFIX,playstation.net
+# DOMAIN-SUFFIX,playstationnetwork.com
+
+# 规则名称:Spark
+DOMAIN-SUFFIX,api.amplitude.com
+DOMAIN-SUFFIX,app.smartmailcloud.com
+DOMAIN-SUFFIX,gate.hockeyapp.net
+DOMAIN-SUFFIX,smartmailcloud.com
+
+# 规则名称:Speedtest
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,speed.dler.io
+DOMAIN-KEYWORD,speedtest
+
+# 规则名称:Telegram
+DOMAIN-SUFFIX,cdn-telegram.org
+DOMAIN-SUFFIX,comments.app
+DOMAIN-SUFFIX,contest.com
+DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,legra.ph
+DOMAIN-SUFFIX,mbrx.app
+DOMAIN-SUFFIX,quiz.directory
+DOMAIN-SUFFIX,stel.com
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telega.one
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram-cdn.org
+DOMAIN-SUFFIX,telegram.dog
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegram.space
+DOMAIN-SUFFIX,telegramdownload.com
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,tg.dev
+DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,usercontent.dev
+DOMAIN-KEYWORD,nicegram
+DOMAIN-KEYWORD,telegram
+IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,149.154.160.0/20,no-resolve
+IP-CIDR,5.28.192.0/18,no-resolve
+IP-CIDR,91.108.0.0/16,no-resolve
+IP-CIDR6,2001:67c:4e8::/48,no-resolve
+IP-CIDR6,2001:b28:f23c::/47,no-resolve
+IP-CIDR6,2001:b28:f23f::/48,no-resolve
+IP-CIDR6,2a0a:f280::/29,no-resolve
+
+# 规则名称:Token
+DOMAIN-SUFFIX,tokenpocket.pro
+DOMAIN-SUFFIX,token.im
+DOMAIN-SUFFIX,phantom.app
+DOMAIN-SUFFIX,tronlink.org
+DOMAIN-SUFFIX,myetherwallet.com
+DOMAIN-SUFFIX,jaxx.io
+DOMAIN-SUFFIX,trustwalletapp.com
+
+# 规则名称:Twitter
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,tellapart.com
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,twimg.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twimg.org
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.biz
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,twittercommunity.com
+DOMAIN-SUFFIX,twitterflightschool.com
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twitteroauth.com
+DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,x.com
+DOMAIN-KEYWORD,twitter
+IP-CIDR,192.133.76.0/22,no-resolve
+IP-CIDR,199.59.148.0/22,no-resolve
+IP-CIDR,199.96.56.0/21,no-resolve
+IP-CIDR,202.160.128.0/22,no-resolve
+IP-CIDR,209.237.192.0/19,no-resolve
+IP-CIDR,69.195.160.0/19,no-resolve
+
+# 规则名称:Yandex
+DOMAIN-SUFFIX,yandex.com
+DOMAIN-SUFFIX,yandex.net
+DOMAIN-SUFFIX,yastatic.net
+DOMAIN-KEYWORD,yandex
+
+# 规则名称:Z-library
+DOMAIN-SUFFIX,1lib.cloud
+DOMAIN-SUFFIX,1lib.cz
+DOMAIN-SUFFIX,1lib.domains
+DOMAIN-SUFFIX,1lib.education
+DOMAIN-SUFFIX,1lib.eu
+DOMAIN-SUFFIX,1lib.limited
+DOMAIN-SUFFIX,1lib.pl
+DOMAIN-SUFFIX,1lib.to
+DOMAIN-SUFFIX,1lib.tw
+DOMAIN-SUFFIX,2lib.org
+DOMAIN-SUFFIX,3lib.net
+DOMAIN-SUFFIX,art1lib.com
+DOMAIN-SUFFIX,b-ok.africa
+DOMAIN-SUFFIX,b-ok.asia
+DOMAIN-SUFFIX,b-ok.cc
+DOMAIN-SUFFIX,b-ok.global
+DOMAIN-SUFFIX,b-ok.org
+DOMAIN-SUFFIX,book4you.org
+DOMAIN-SUFFIX,bookfi.net
+DOMAIN-SUFFIX,booksc.eu
+DOMAIN-SUFFIX,booksc.me
+DOMAIN-SUFFIX,booksc.org
+DOMAIN-SUFFIX,booksc.xyz
+DOMAIN-SUFFIX,bookshome.info
+DOMAIN-SUFFIX,bookshome.net
+DOMAIN-SUFFIX,bookshome.world
+DOMAIN-SUFFIX,de1lib.org
+DOMAIN-SUFFIX,hk1lib.org
+DOMAIN-SUFFIX,libsolutions.app
+DOMAIN-SUFFIX,libsolutions.domains
+DOMAIN-SUFFIX,libsolutions.net
+DOMAIN-SUFFIX,ma1lib.org
+DOMAIN-SUFFIX,sg1lib.org
+DOMAIN-SUFFIX,singlelogin.app
+DOMAIN-SUFFIX,singlelogin.me
+DOMAIN-SUFFIX,singlelogin.re
+DOMAIN-SUFFIX,singlelogin.site
+DOMAIN-SUFFIX,z-lib.org
+DOMAIN-SUFFIX,z-library.se
+DOMAIN-SUFFIX,zlib.life
+DOMAIN-SUFFIX,zlibcdn.com
+DOMAIN-SUFFIX,zlibcdn2.com
+
+# 规则名称:ZB
+DOMAIN-SUFFIX,zb.app
+DOMAIN-SUFFIX,zb.com
+DOMAIN-SUFFIX,zb.io
+DOMAIN-SUFFIX,zb.live
+
+# 规则名称:国外规则
+DOMAIN-SUFFIX,4everproxy.com
+DOMAIN-SUFFIX,4shared.com
+DOMAIN-SUFFIX,9to5mac.com
+DOMAIN-SUFFIX,abpchina.org
+DOMAIN-SUFFIX,adblockplus.org
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,alfredapp.com
+DOMAIN-SUFFIX,allconnected.co
+DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,ancsconf.org
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,android-x86.org
+DOMAIN-SUFFIX,angularjs.org
+DOMAIN-SUFFIX,anthonycalzadilla.com
+DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,aolcdn.com
+DOMAIN-SUFFIX,apigee.com
+DOMAIN-SUFFIX,apk-dl.com
+DOMAIN-SUFFIX,apkfind.com
+DOMAIN-SUFFIX,apkleecher.com
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,appdownloader.net
+DOMAIN-SUFFIX,appledaily.com
+DOMAIN-SUFFIX,appshopper.com
+DOMAIN-SUFFIX,appsonplaystore.com
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,arcgis.com
+DOMAIN-SUFFIX,archive.is
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,archives.gov
+DOMAIN-SUFFIX,armorgames.com
+DOMAIN-SUFFIX,aspnetcdn.com
+DOMAIN-SUFFIX,att.com
+DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,bandwagonhost.com
+DOMAIN-SUFFIX,bbtoystore.com
+DOMAIN-SUFFIX,bigsound.org
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bintray.com
+DOMAIN-SUFFIX,bit.com
+DOMAIN-SUFFIX,bit.do
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bitbucket.org
+DOMAIN-SUFFIX,bitcointalk.org
+DOMAIN-SUFFIX,bitshare.com
+DOMAIN-SUFFIX,bjango.com
+DOMAIN-SUFFIX,bkrtx.com
+DOMAIN-SUFFIX,blog.com
+DOMAIN-SUFFIX,blogcdn.com
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,bloglovin.com
+DOMAIN-SUFFIX,blogsmithmedia.com
+DOMAIN-SUFFIX,blogspot.com
+DOMAIN-SUFFIX,blogspot.hk
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,books.com.tw
+DOMAIN-SUFFIX,box.com
+DOMAIN-SUFFIX,box.net
+DOMAIN-SUFFIX,boxun.com
+DOMAIN-SUFFIX,cachefly.net
+DOMAIN-SUFFIX,cbc.ca
+DOMAIN-SUFFIX,cccat.cc
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,census.gov
+DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,cl.ly
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,cloudmagic.com
+DOMAIN-SUFFIX,cmail19.com
+DOMAIN-SUFFIX,cnet.com
+DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,cn-proxy.com
+DOMAIN-SUFFIX,cocoapods.org
+DOMAIN-SUFFIX,comodoca.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,culturedcode.com
+DOMAIN-SUFFIX,d.pr
+DOMAIN-SUFFIX,danilo.to
+DOMAIN-SUFFIX,daolan.net
+DOMAIN-SUFFIX,dayone.me
+DOMAIN-SUFFIX,db.tt
+DOMAIN-SUFFIX,dcmilitary.com
+DOMAIN-SUFFIX,deskconnect.com
+DOMAIN-SUFFIX,digitaltrends.com
+DOMAIN-SUFFIX,disconnect.me
+DOMAIN-SUFFIX,disq.us
+DOMAIN-SUFFIX,disqus.com
+DOMAIN-SUFFIX,disquscdn.com
+DOMAIN-SUFFIX,dnsimple.com
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,dribbble.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,droplr.com
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,dueapp.com
+DOMAIN-SUFFIX,dw.com
+DOMAIN-SUFFIX,dytt8.net
+DOMAIN-SUFFIX,easybib.com
+DOMAIN-SUFFIX,economist.com
+DOMAIN-SUFFIX,edgecastcdn.net
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,engadget.com
+DOMAIN-SUFFIX,entrust.net
+DOMAIN-SUFFIX,eurekavpt.com
+DOMAIN-SUFFIX,evernote.com
+DOMAIN-SUFFIX,extmatrix.com
+DOMAIN-SUFFIX,fabric.io
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fc2.com
+DOMAIN-SUFFIX,feedburner.com
+DOMAIN-SUFFIX,feedly.com
+DOMAIN-SUFFIX,feedsportal.com
+DOMAIN-SUFFIX,fiftythree.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,flexibits.com
+DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,flipboard.com
+DOMAIN-SUFFIX,flipkart.com
+DOMAIN-SUFFIX,flitto.com
+DOMAIN-SUFFIX,freeopenproxy.com
+DOMAIN-SUFFIX,fzlm.net
+DOMAIN-SUFFIX,g.co
+DOMAIN-SUFFIX,gabia.net
+DOMAIN-SUFFIX,geni.us
+DOMAIN-SUFFIX,getcloudapp.com
+DOMAIN-SUFFIX,getfoxyproxy.org
+DOMAIN-SUFFIX,getlantern.org
+DOMAIN-SUFFIX,gfw.press
+DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,ghostnoteapp.com
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,gmodules.com
+DOMAIN-SUFFIX,go.com
+DOMAIN-SUFFIX,go.jp
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,golang.org
+DOMAIN-SUFFIX,gongm.in
+DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,goodreaders.com
+DOMAIN-SUFFIX,goodreads.com
+DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gunsamerica.com
+DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,hockeyapp.net
+DOMAIN-SUFFIX,homedepot.com
+DOMAIN-SUFFIX,hootsuite.com
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,howtoforge.com
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,icoco.com
+DOMAIN-SUFFIX,icons8.com
+DOMAIN-SUFFIX,ifixit.com
+DOMAIN-SUFFIX,ift.tt
+DOMAIN-SUFFIX,ifttt.com
+DOMAIN-SUFFIX,iherb.com
+DOMAIN-SUFFIX,imageshack.us
+DOMAIN-SUFFIX,img.ly
+DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,imore.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,instapaper.com
+DOMAIN-SUFFIX,instructables.com
+DOMAIN-SUFFIX,ipn.li
+DOMAIN-SUFFIX,is.gd
+DOMAIN-SUFFIX,issuu.com
+DOMAIN-SUFFIX,itgonglun.com
+DOMAIN-SUFFIX,itun.es
+DOMAIN-SUFFIX,ixquick.com
+DOMAIN-SUFFIX,j.mp
+DOMAIN-SUFFIX,js.revsci.net
+DOMAIN-SUFFIX,jshint.com
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,justgetflux.com
+DOMAIN-SUFFIX,kat.cr
+DOMAIN-SUFFIX,kenengba.com
+DOMAIN-SUFFIX,klip.me
+DOMAIN-SUFFIX,libsyn.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,linode.com
+DOMAIN-SUFFIX,lithium.com
+DOMAIN-SUFFIX,littlehj.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,logmein.com
+DOMAIN-SUFFIX,macid.co
+DOMAIN-SUFFIX,macromedia.com
+DOMAIN-SUFFIX,macrumors.com
+DOMAIN-SUFFIX,maplestage.com
+DOMAIN-SUFFIX,marketwatch.com
+DOMAIN-SUFFIX,mashable.com
+DOMAIN-SUFFIX,mathjax.org
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,mega.co.nz
+DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,megaupload.com
+DOMAIN-SUFFIX,microsofttranslator.com
+DOMAIN-SUFFIX,mindnode.com
+DOMAIN-SUFFIX,mlssoccer.com
+DOMAIN-SUFFIX,mobile01.com
+DOMAIN-SUFFIX,modmyi.com
+DOMAIN-SUFFIX,mp3buscador.com
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,mycnnews.com
+DOMAIN-SUFFIX,myfontastic.com
+DOMAIN-SUFFIX,name.com
+DOMAIN-SUFFIX,nasa.gov
+DOMAIN-SUFFIX,ndr.de
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,newipnow.com
+DOMAIN-SUFFIX,nextmedia.com
+DOMAIN-SUFFIX,nih.gov
+DOMAIN-SUFFIX,nintendo.com
+DOMAIN-SUFFIX,nrk.no
+DOMAIN-SUFFIX,nsstatic.net
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,nytimg.com
+DOMAIN-SUFFIX,omnigroup.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,onlineyoutube.com
+DOMAIN-SUFFIX,ooyala.com
+DOMAIN-SUFFIX,openvpn.net
+DOMAIN-SUFFIX,openwrt.org
+DOMAIN-SUFFIX,optimizely.com
+DOMAIN-SUFFIX,orkut.com
+DOMAIN-SUFFIX,osha.gov
+DOMAIN-SUFFIX,osxdaily.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,ow.ly
+DOMAIN-SUFFIX,paddleapi.com
+DOMAIN-SUFFIX,pandora.com
+DOMAIN-SUFFIX,parallels.com
+DOMAIN-SUFFIX,parse.com
+DOMAIN-SUFFIX,pastebin.com
+DOMAIN-SUFFIX,pdfexpert.com
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pinboard.in
+DOMAIN-SUFFIX,pinterest.com
+DOMAIN-SUFFIX,pixelmator.com
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,playpcesor.com
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.com.hk
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,pokemon.com
+DOMAIN-SUFFIX,popo.tw
+DOMAIN-SUFFIX,proxfree.com
+DOMAIN-SUFFIX,psiphon3.com
+DOMAIN-SUFFIX,pubu.com.tw
+DOMAIN-SUFFIX,puffinbrowser.com
+DOMAIN-SUFFIX,pushwoosh.com
+DOMAIN-SUFFIX,readingtimes.com.tw
+DOMAIN-SUFFIX,readmoo.com
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,rfi.fr
+DOMAIN-SUFFIX,rileyguide.com
+DOMAIN-SUFFIX,rime.im
+DOMAIN-SUFFIX,rsf.org
+DOMAIN-SUFFIX,sciencedaily.com
+DOMAIN-SUFFIX,sciencemag.org
+DOMAIN-SUFFIX,scribd.com
+DOMAIN-SUFFIX,search.com
+DOMAIN-SUFFIX,servebom.com
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,shadowsocks.org
+DOMAIN-SUFFIX,sharethis.com
+DOMAIN-SUFFIX,shazam.com
+DOMAIN-SUFFIX,shutterstock.com
+DOMAIN-SUFFIX,sidelinesnews.com
+DOMAIN-SUFFIX,signalsitemap.com
+DOMAIN-SUFFIX,sketchappsources.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,slideshare.net
+DOMAIN-SUFFIX,smartdnsProxy.com
+DOMAIN-SUFFIX,smartmailcloud.com
+DOMAIN-SUFFIX,smh.com.au
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,sockslist.net
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,sourceforge.net
+DOMAIN-SUFFIX,sowers.org.hk
+DOMAIN-SUFFIX,spike.com
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,squarespace.com
+DOMAIN-SUFFIX,ssa.gov
+DOMAIN-SUFFIX,sstatic.net
+DOMAIN-SUFFIX,st.luluku.pw
+DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,starp2p.com
+DOMAIN-SUFFIX,startpage.com
+DOMAIN-SUFFIX,state.gov
+DOMAIN-SUFFIX,staticflickr.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,storify.com
+DOMAIN-SUFFIX,stumbleupon.com
+DOMAIN-SUFFIX,sugarsync.com
+DOMAIN-SUFFIX,surfeasy.com.au
+DOMAIN-SUFFIX,surge.run
+DOMAIN-SUFFIX,surrenderat20.net
+DOMAIN-SUFFIX,sydneytoday.com
+DOMAIN-SUFFIX,symauth.com
+DOMAIN-SUFFIX,symcb.com
+DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,tablesgenerator.com
+DOMAIN-SUFFIX,tabtter.jp
+DOMAIN-SUFFIX,talk853.com
+DOMAIN-SUFFIX,talkboxapp.com
+DOMAIN-SUFFIX,talkonly.net
+DOMAIN-SUFFIX,tapbots.com
+DOMAIN-SUFFIX,tapbots.net
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,techcrunch.com
+DOMAIN-SUFFIX,technorati.com
+DOMAIN-SUFFIX,techsmith.com
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,thebobs.com
+DOMAIN-SUFFIX,thepiratebay.org
+DOMAIN-SUFFIX,theverge.com
+DOMAIN-SUFFIX,thewgo.org
+DOMAIN-SUFFIX,time.com
+DOMAIN-SUFFIX,timeinc.net
+DOMAIN-SUFFIX,tiny.cc
+DOMAIN-SUFFIX,tinychat.com
+DOMAIN-SUFFIX,tinypic.com
+DOMAIN-SUFFIX,tmblr.co
+DOMAIN-SUFFIX,todoist.com
+DOMAIN-SUFFIX,togetter.com
+DOMAIN-SUFFIX,tokyocn.com
+DOMAIN-SUFFIX,tomshardware.com
+DOMAIN-SUFFIX,torcn.com
+DOMAIN-SUFFIX,torproject.org
+DOMAIN-SUFFIX,torrentprivacy.com
+DOMAIN-SUFFIX,torrentproject.se
+DOMAIN-SUFFIX,torrentz.eu
+DOMAIN-SUFFIX,traffichaus.com
+DOMAIN-SUFFIX,transparency.org
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,trendsmap.com
+DOMAIN-SUFFIX,trulyergonomic.com
+DOMAIN-SUFFIX,trustasiassl.com
+DOMAIN-SUFFIX,tt-rss.org
+DOMAIN-SUFFIX,tumblr.co
+DOMAIN-SUFFIX,tumblr.com
+DOMAIN-SUFFIX,turbobit.net
+DOMAIN-SUFFIX,tv.com
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,tweetmarker.net
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twitter4j.org
+DOMAIN-SUFFIX,twittercounter.com
+DOMAIN-SUFFIX,twitterfeed.com
+DOMAIN-SUFFIX,twittergadget.com
+DOMAIN-SUFFIX,twitterrific.com
+DOMAIN-SUFFIX,twitthat.com
+DOMAIN-SUFFIX,twtkr.com
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,txmblr.com
+DOMAIN-SUFFIX,typekit.net
+DOMAIN-SUFFIX,ubertags.com
+DOMAIN-SUFFIX,ublock.org
+DOMAIN-SUFFIX,ubnt.com
+DOMAIN-SUFFIX,uchicago.edu
+DOMAIN-SUFFIX,udn.com
+DOMAIN-SUFFIX,ugo.com
+DOMAIN-SUFFIX,uhdwallpapers.org
+DOMAIN-SUFFIX,ulyssesapp.com
+DOMAIN-SUFFIX,unblockdmm.com
+DOMAIN-SUFFIX,unblocksites.co
+DOMAIN-SUFFIX,unpo.org
+DOMAIN-SUFFIX,untraceable.us
+DOMAIN-SUFFIX,uploaded.net
+DOMAIN-SUFFIX,uproxy.org
+DOMAIN-SUFFIX,urchin.com
+DOMAIN-SUFFIX,urlparser.com
+DOMAIN-SUFFIX,us.to
+DOMAIN-SUFFIX,usertrust.com
+DOMAIN-SUFFIX,usgs.gov
+DOMAIN-SUFFIX,usma.edu
+DOMAIN-SUFFIX,uspto.gov
+DOMAIN-SUFFIX,ustream.tv
+DOMAIN-SUFFIX,v.gd
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,van001.com
+DOMAIN-SUFFIX,vanpeople.com
+DOMAIN-SUFFIX,vansky.com
+DOMAIN-SUFFIX,venchina.com
+DOMAIN-SUFFIX,veoh.com
+DOMAIN-SUFFIX,verizonwireless.com
+DOMAIN-SUFFIX,viber.com
+DOMAIN-SUFFIX,vid.me
+DOMAIN-SUFFIX,videomega.tv
+DOMAIN-SUFFIX,vidinfo.org
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,vimperator.org
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,visibletweets.com
+DOMAIN-SUFFIX,vivaldi.com
+DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,vocativ.com
+DOMAIN-SUFFIX,vox-cdn.com
+DOMAIN-SUFFIX,vpnaccount.org
+DOMAIN-SUFFIX,vpnbook.com
+DOMAIN-SUFFIX,vpngate.net
+DOMAIN-SUFFIX,vsco.co
+DOMAIN-SUFFIX,vultr.com
+DOMAIN-SUFFIX,vzw.com
+DOMAIN-SUFFIX,w.org
+DOMAIN-SUFFIX,w3schools.com
+DOMAIN-SUFFIX,wattpad.com
+DOMAIN-SUFFIX,web2project.net
+DOMAIN-SUFFIX,webfreer.com
+DOMAIN-SUFFIX,weblagu.com
+DOMAIN-SUFFIX,websnapr.com
+DOMAIN-SUFFIX,webtype.com
+DOMAIN-SUFFIX,webwarper.net
+DOMAIN-SUFFIX,wenxuecity.com
+DOMAIN-SUFFIX,westca.com
+DOMAIN-SUFFIX,westpoint.edu
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,wikileaks.info
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wikileaks-forum.com
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikipedia.com
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiwand.com
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,winudf.com
+DOMAIN-SUFFIX,wire.com
+DOMAIN-SUFFIX,wn.com
+DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,workflowy.com
+DOMAIN-SUFFIX,worldcat.org
+DOMAIN-SUFFIX,wow.com
+DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,wsj.net
+DOMAIN-SUFFIX,wwitv.com
+DOMAIN-SUFFIX,xanga.com
+DOMAIN-SUFFIX,xda-developers.com
+DOMAIN-SUFFIX,xeeno.com
+DOMAIN-SUFFIX,xiti.com
+DOMAIN-SUFFIX,xuite.net
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,yasni.co.uk
+DOMAIN-SUFFIX,yastatic.net
+DOMAIN-SUFFIX,yeeyi.com
+DOMAIN-SUFFIX,yesasia.com
+DOMAIN-SUFFIX,yes-news.com
+DOMAIN-SUFFIX,yidio.com
+DOMAIN-SUFFIX,yimg.com
+DOMAIN-SUFFIX,ying.com
+DOMAIN-SUFFIX,yorkbbs.ca
+DOMAIN-SUFFIX,youmaker.com
+DOMAIN-SUFFIX,yourlisten.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,yoyo.org
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,zacebook.com
+DOMAIN-SUFFIX,zalmos.com
+DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN-SUFFIX,zeutch.com
+
+# 规则名称:国外规则
+DOMAIN-KEYWORD,amazon
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,sci-hub
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,youtube
+
+# 规则名称:国外域名
+# DOMAIN-SUFFIX,ac
+# DOMAIN-SUFFIX,ad
+# DOMAIN-SUFFIX,ae
+# DOMAIN-SUFFIX,af
+# DOMAIN-SUFFIX,ag
+# DOMAIN-SUFFIX,ai
+# DOMAIN-SUFFIX,al
+# DOMAIN-SUFFIX,am
+# DOMAIN-SUFFIX,ao
+# DOMAIN-SUFFIX,aq
+# DOMAIN-SUFFIX,ar
+# DOMAIN-SUFFIX,as
+# DOMAIN-SUFFIX,at
+# DOMAIN-SUFFIX,au
+# DOMAIN-SUFFIX,aw
+# DOMAIN-SUFFIX,ax
+# DOMAIN-SUFFIX,az
+# DOMAIN-SUFFIX,ba
+# DOMAIN-SUFFIX,bb
+# DOMAIN-SUFFIX,bd
+# DOMAIN-SUFFIX,be
+# DOMAIN-SUFFIX,bf
+# DOMAIN-SUFFIX,bg
+# DOMAIN-SUFFIX,bh
+# DOMAIN-SUFFIX,bi
+# DOMAIN-SUFFIX,bj
+# DOMAIN-SUFFIX,bl
+# DOMAIN-SUFFIX,bm
+# DOMAIN-SUFFIX,bn
+# DOMAIN-SUFFIX,bo
+# DOMAIN-SUFFIX,br
+# DOMAIN-SUFFIX,bs
+# DOMAIN-SUFFIX,bt
+# DOMAIN-SUFFIX,bv
+# DOMAIN-SUFFIX,bw
+# DOMAIN-SUFFIX,by
+# DOMAIN-SUFFIX,bz
+# DOMAIN-SUFFIX,ca
+# DOMAIN-SUFFIX,cd
+# DOMAIN-SUFFIX,cf
+# DOMAIN-SUFFIX,cg
+# DOMAIN-SUFFIX,ch
+# DOMAIN-SUFFIX,ci
+# DOMAIN-SUFFIX,ck
+# DOMAIN-SUFFIX,cl
+# DOMAIN-SUFFIX,cm
+# DOMAIN-SUFFIX,cr
+# DOMAIN-SUFFIX,cu
+# DOMAIN-SUFFIX,cv
+# DOMAIN-SUFFIX,cw
+# DOMAIN-SUFFIX,cx
+# DOMAIN-SUFFIX,cy
+# DOMAIN-SUFFIX,cz
+# DOMAIN-SUFFIX,de
+# DOMAIN-SUFFIX,dj
+# DOMAIN-SUFFIX,dk
+# DOMAIN-SUFFIX,dm
+# DOMAIN-SUFFIX,do
+# DOMAIN-SUFFIX,dz
+# DOMAIN-SUFFIX,ec
+# DOMAIN-SUFFIX,ee
+# DOMAIN-SUFFIX,eg
+# DOMAIN-SUFFIX,eh
+# DOMAIN-SUFFIX,er
+# DOMAIN-SUFFIX,es
+# DOMAIN-SUFFIX,et
+# DOMAIN-SUFFIX,eu
+# DOMAIN-SUFFIX,fi
+# DOMAIN-SUFFIX,fj
+# DOMAIN-SUFFIX,fk
+# DOMAIN-SUFFIX,fm
+# DOMAIN-SUFFIX,fo
+# DOMAIN-SUFFIX,fr
+# DOMAIN-SUFFIX,ga
+# DOMAIN-SUFFIX,gb
+# DOMAIN-SUFFIX,gd
+# DOMAIN-SUFFIX,ge
+# DOMAIN-SUFFIX,gf
+# DOMAIN-SUFFIX,gg
+# DOMAIN-SUFFIX,gh
+# DOMAIN-SUFFIX,gi
+# DOMAIN-SUFFIX,gl
+# DOMAIN-SUFFIX,gm
+# DOMAIN-SUFFIX,gn
+# DOMAIN-SUFFIX,gp
+# DOMAIN-SUFFIX,gr
+# DOMAIN-SUFFIX,gs
+# DOMAIN-SUFFIX,gt
+# DOMAIN-SUFFIX,gu
+# DOMAIN-SUFFIX,gw
+# DOMAIN-SUFFIX,gy
+# DOMAIN-SUFFIX,hk
+# DOMAIN-SUFFIX,hm
+# DOMAIN-SUFFIX,hn
+# DOMAIN-SUFFIX,hr
+# DOMAIN-SUFFIX,ht
+# DOMAIN-SUFFIX,hu
+# DOMAIN-SUFFIX,id
+# DOMAIN-SUFFIX,ie
+# DOMAIN-SUFFIX,il
+# DOMAIN-SUFFIX,im
+# DOMAIN-SUFFIX,in
+# DOMAIN-SUFFIX,io
+# DOMAIN-SUFFIX,iq
+# DOMAIN-SUFFIX,ir
+# DOMAIN-SUFFIX,is
+# DOMAIN-SUFFIX,it
+# DOMAIN-SUFFIX,je
+# DOMAIN-SUFFIX,jm
+# DOMAIN-SUFFIX,jo
+# DOMAIN-SUFFIX,jp
+# DOMAIN-SUFFIX,ke
+# DOMAIN-SUFFIX,kg
+# DOMAIN-SUFFIX,kh
+# DOMAIN-SUFFIX,ki
+# DOMAIN-SUFFIX,km
+# DOMAIN-SUFFIX,kn
+# DOMAIN-SUFFIX,kp
+# DOMAIN-SUFFIX,kr
+# DOMAIN-SUFFIX,kw
+# DOMAIN-SUFFIX,ky
+# DOMAIN-SUFFIX,kz
+# DOMAIN-SUFFIX,la
+# DOMAIN-SUFFIX,lb
+# DOMAIN-SUFFIX,lc
+# DOMAIN-SUFFIX,li
+# DOMAIN-SUFFIX,lk
+# DOMAIN-SUFFIX,lr
+# DOMAIN-SUFFIX,ls
+# DOMAIN-SUFFIX,lt
+# DOMAIN-SUFFIX,lu
+# DOMAIN-SUFFIX,lv
+# DOMAIN-SUFFIX,ly
+# DOMAIN-SUFFIX,ma
+# DOMAIN-SUFFIX,mc
+# DOMAIN-SUFFIX,md
+# DOMAIN-SUFFIX,mf
+# DOMAIN-SUFFIX,mg
+# DOMAIN-SUFFIX,mh
+# DOMAIN-SUFFIX,mk
+# DOMAIN-SUFFIX,ml
+# DOMAIN-SUFFIX,mm
+# DOMAIN-SUFFIX,mn
+# DOMAIN-SUFFIX,mo
+# DOMAIN-SUFFIX,mp
+# DOMAIN-SUFFIX,mq
+# DOMAIN-SUFFIX,mr
+# DOMAIN-SUFFIX,ms
+# DOMAIN-SUFFIX,mt
+# DOMAIN-SUFFIX,mu
+# DOMAIN-SUFFIX,mv
+# DOMAIN-SUFFIX,mw
+# DOMAIN-SUFFIX,mx
+# DOMAIN-SUFFIX,my
+# DOMAIN-SUFFIX,mz
+# DOMAIN-SUFFIX,na
+# DOMAIN-SUFFIX,nc
+# DOMAIN-SUFFIX,ne
+# DOMAIN-SUFFIX,nf
+# DOMAIN-SUFFIX,ng
+# DOMAIN-SUFFIX,ni
+# DOMAIN-SUFFIX,nl
+# DOMAIN-SUFFIX,no
+# DOMAIN-SUFFIX,np
+# DOMAIN-SUFFIX,nr
+# DOMAIN-SUFFIX,nu
+# DOMAIN-SUFFIX,nz
+# DOMAIN-SUFFIX,om
+# DOMAIN-SUFFIX,pa
+# DOMAIN-SUFFIX,pe
+# DOMAIN-SUFFIX,pf
+# DOMAIN-SUFFIX,pg
+# DOMAIN-SUFFIX,ph
+# DOMAIN-SUFFIX,pk
+# DOMAIN-SUFFIX,pl
+# DOMAIN-SUFFIX,pm
+# DOMAIN-SUFFIX,pn
+# DOMAIN-SUFFIX,pr
+# DOMAIN-SUFFIX,ps
+# DOMAIN-SUFFIX,pt
+# DOMAIN-SUFFIX,py
+# DOMAIN-SUFFIX,qa
+# DOMAIN-SUFFIX,re
+# DOMAIN-SUFFIX,ro
+# DOMAIN-SUFFIX,rs
+# DOMAIN-SUFFIX,ru
+# DOMAIN-SUFFIX,rw
+# DOMAIN-SUFFIX,sa
+# DOMAIN-SUFFIX,sb
+# DOMAIN-SUFFIX,sc
+# DOMAIN-SUFFIX,sd
+# DOMAIN-SUFFIX,se
+# DOMAIN-SUFFIX,sg
+# DOMAIN-SUFFIX,sh
+# DOMAIN-SUFFIX,si
+# DOMAIN-SUFFIX,sj
+# DOMAIN-SUFFIX,sk
+# DOMAIN-SUFFIX,sl
+# DOMAIN-SUFFIX,sm
+# DOMAIN-SUFFIX,sn
+# DOMAIN-SUFFIX,so
+# DOMAIN-SUFFIX,sr
+# DOMAIN-SUFFIX,ss
+# DOMAIN-SUFFIX,st
+# DOMAIN-SUFFIX,su
+# DOMAIN-SUFFIX,sv
+# DOMAIN-SUFFIX,sx
+# DOMAIN-SUFFIX,sy
+# DOMAIN-SUFFIX,sz
+# DOMAIN-SUFFIX,tc
+# DOMAIN-SUFFIX,td
+# DOMAIN-SUFFIX,tf
+# DOMAIN-SUFFIX,tg
+# DOMAIN-SUFFIX,th
+# DOMAIN-SUFFIX,tj
+# DOMAIN-SUFFIX,tk
+# DOMAIN-SUFFIX,tl
+# DOMAIN-SUFFIX,tm
+# DOMAIN-SUFFIX,tn
+# DOMAIN-SUFFIX,to
+# DOMAIN-SUFFIX,tr
+# DOMAIN-SUFFIX,tt
+# DOMAIN-SUFFIX,tv
+# DOMAIN-SUFFIX,tw
+# DOMAIN-SUFFIX,tz
+# DOMAIN-SUFFIX,ua
+# DOMAIN-SUFFIX,ug
+# DOMAIN-SUFFIX,uk
+# DOMAIN-SUFFIX,us
+# DOMAIN-SUFFIX,uy
+# DOMAIN-SUFFIX,uz
+# DOMAIN-SUFFIX,va
+# DOMAIN-SUFFIX,vc
+# DOMAIN-SUFFIX,ve
+# DOMAIN-SUFFIX,vg
+# DOMAIN-SUFFIX,vi
+# DOMAIN-SUFFIX,vn
+# DOMAIN-SUFFIX,vu
+# DOMAIN-SUFFIX,wf
+# DOMAIN-SUFFIX,ws
+# DOMAIN-SUFFIX,ye
+# DOMAIN-SUFFIX,yt
+# DOMAIN-SUFFIX,za
+# DOMAIN-SUFFIX,zm
+# DOMAIN-SUFFIX,zw
